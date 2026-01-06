@@ -1,8 +1,7 @@
 # Computer Graphics Algorithms Visualization (PGR1)
 
-**Author:** [Your Name]
-**Student ID:** [Your ID]
-**Field of Study:** [Your Field, e.g., Software Engineering]
+**Author:** Sagynbek Kubanychbek uulu
+**Field of Study:** APIN
 **Academic Year:** 2025/2026 (Winter Semester)
 **Course:** Computer Graphics 1 (PGR1)
 
