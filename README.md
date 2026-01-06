@@ -61,7 +61,7 @@ This method requires Python installed on your system.
     ```bash
     streamlit run app.py
     ```
-    The application will automatically open in your browser (usually at `http://localhost:8501`).
+    
 
 ### Method B: Docker Execution (Recommended for Isolation)
 The project includes a `Dockerfile` for easy container build.
